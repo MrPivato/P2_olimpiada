@@ -7,4 +7,4 @@ Trabalho_17-05-2018
 
 <h2>Fazer um site sobre as olimpiadas.</h2>
 
-<h3>No Japão</h3>
+<h3>No Japão.</h3>
