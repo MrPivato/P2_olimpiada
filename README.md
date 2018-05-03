@@ -8,11 +8,15 @@ Trabalho_17-05-2018
 <h2>Fazer um site sobre as olimpiadas.</h2>
 <hr>
 ● Esta é uma prova prática, individual ou em duplas e com consulta.
+
 ● O valor total desta prova corresponde à 6,0 pontos da nota do primeiro trimestre.
+
 ● O prazo de entrega da prova é 17/05/2018.
+
   ○ As questões devem estar em um arquivo compactado (.zip).
   ○ O arquivo compactado da prova deve ser submetido pelo Moodle (não serão aceitos trabalhos enviados por e-mail).
   ○ Envios submetidos após esta data terão desconto de 30% na sua nota.
+  
 ● Os critérios observados e exigidos nas atividades práticas ou provas escrita são:
   ○ funcionalidade de acordo com o solicitado
   ○ compreensão dos conceitos abordados
