@@ -14,13 +14,20 @@ Trabalho_17-05-2018
 ● O prazo de entrega da prova é 17/05/2018.
 
   ○ As questões devem estar em um arquivo compactado (.zip).
+  
   ○ O arquivo compactado da prova deve ser submetido pelo Moodle (não serão aceitos trabalhos enviados por e-mail).
+  
   ○ Envios submetidos após esta data terão desconto de 30% na sua nota.
   
+  
 ● Os critérios observados e exigidos nas atividades práticas ou provas escrita são:
+
   ○ funcionalidade de acordo com o solicitado
+  
   ○ compreensão dos conceitos abordados
+  
   ○ pontualidade
+  
   ○ clareza na demonstração da solução
 
 Vamos simular que estamos trabalhando em uma empresa de desenvolvimento de sites. Nossa empresa foi contratada para desenvolver o site das Olimpíadas de 2020 na Rússia. Desta forma, precisamos desenvolver as seguintes páginas web:
