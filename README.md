@@ -33,8 +33,11 @@ Trabalho_17-05-2018
 Vamos simular que estamos trabalhando em uma empresa de desenvolvimento de sites. Nossa empresa foi contratada para desenvolver o site das Olimpíadas de 2020 na Rússia. Desta forma, precisamos desenvolver as seguintes páginas web:
 
 1) Página inicial do web site
+
 a. Menu para as outras partes do site 
+
 b. Cabeçalho e Rodapé 
+
 c. Notícias sobre esporte (com título, texto e figura)
 
 2) Página com a programação de cada dia (simule 2 semanas de eventos)
