@@ -8,7 +8,7 @@ Trabalho_17-05-2018
 <h2>Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul Campus Bento Gonçalves</h2>
 
 
-<h2>"Fazer um site sobre as olimpíadas de 2020.</h2>
+<h2>"Fazer um site sobre as olimpíadas de 2020."</h2>
 
 <hr>
 
