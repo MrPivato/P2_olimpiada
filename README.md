@@ -3,15 +3,20 @@ Trabalho_17-05-2018
 
 <hr>
 
-<h1>Trabalho de escola.</h1>
+<h1>Trabalho escolar.</h1>
 
-<h2>Fazer um site sobre as olimpiadas.</h2>
+<h2>Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul Campus Bento Gonçalves</h2>
+
+
+<h2>"Fazer um site sobre as olimpíadas de 2020.</h2>
+
 <hr>
-● Esta é uma prova prática, individual ou em duplas e com consulta.
 
-● O valor total desta prova corresponde à 6,0 pontos da nota do primeiro trimestre.
+<strong>● Esta é uma prova prática, individual ou em duplas e com consulta.</strong>
 
-● O prazo de entrega da prova é 17/05/2018.
+<strong>● O valor total desta prova corresponde à 6,0 pontos da nota do primeiro trimestre.</strong>
+
+<strong>● O prazo de entrega da prova é 17/05/2018.</strong>
 
     ○ As questões devem estar em um arquivo compactado (.zip).
 
@@ -20,7 +25,7 @@ Trabalho_17-05-2018
     ○ Envios submetidos após esta data terão desconto de 30% na sua nota.
 
   
-● Os critérios observados e exigidos nas atividades práticas ou provas escrita são:
+<strong>● Os critérios observados e exigidos nas atividades práticas ou provas escrita são:</strong>
 
     ○ funcionalidade de acordo com o solicitado
 
@@ -30,70 +35,72 @@ Trabalho_17-05-2018
 
     ○ clareza na demonstração da solução
 
-Vamos simular que estamos trabalhando em uma empresa de desenvolvimento de sites. Nossa empresa foi contratada para desenvolver o site das Olimpíadas de 2020 na Rússia. Desta forma, precisamos desenvolver as seguintes páginas web:
+<strong>Vamos simular que estamos trabalhando em uma empresa de desenvolvimento de sites. Nossa empresa foi contratada para desenvolver o site das Olimpíadas de 2020 no Japão. Desta forma, precisamos desenvolver as seguintes páginas web:</strong>
 
-1) Página inicial do web site
+<strong>1) Página inicial do web site</strong>
 
-    a. Menu para as outras partes do site 
+        a. Menu para as outras partes do site 
 
-    b. Cabeçalho e Rodapé 
+        b. Cabeçalho e Rodapé 
 
-    c. Notícias sobre esporte (com título, texto e figura)
+        c. Notícias sobre esporte (com título, texto e figura)
 
-2) Página com a programação de cada dia (simule 2 semanas de eventos)
-a. Quais são os eventos esportivos que vão ocorrer, informando, pelo menos, uma foto, a data, horário e local
+<strong>2) Página com a programação de cada dia (simule 2 semanas de eventos)</strong>
 
-3) Página com a programação artística (início e final do evento)
-    a. Nomes dos shows 
+        a. Quais são os eventos esportivos que vão ocorrer, informando, pelo menos, uma foto, a data, horário e local
 
-    b. Galeria de Fotos dos artistas 
+<strong>3) Página com a programação artística (início e final do evento)</strong>
 
-    c. Tabela de horários 
+        a. Nomes dos shows 
 
-    d. Download da Programação (um arquivo .pdf contendo a tabela de horários) 
+        b. Galeria de Fotos dos artistas 
 
-    e. Música para ouvir no site
+        c. Tabela de horários 
 
-4) Página de contato
+        d. Download da Programação (um arquivo .pdf contendo a tabela de horários) 
 
-    a. Pelo menos, os seguintes campos: nome*, sexo* (radio), email*, rg, idade (somente números), texto*, setor para envio*  (comunicação, administrativo, esportes), botão de submeter e cancelar.
+        e. Música para ouvir no site
 
-    b. Os campos com * são obrigatórios.
+<strong>4) Página de contato</strong>
 
-    c. Ao enviar o formulário, apenas mostre na tela aquilo que o usuário preencheu (com PHP) e uma mensagem de agradecimento.
+        a. Pelo menos, os seguintes campos: nome*, sexo* (radio), email*, rg, idade (somente números), texto*, setor para envio*  (comunicação, administrativo, esportes), botão de submeter e cancelar.
 
-INSTRUÇÕES GERAIS
+        b. Os campos com * são obrigatórios.
 
-1. O site deve ser desenvolvido utilizando HTML 5, CSS e PHP. 
+        c. Ao enviar o formulário, apenas mostre na tela aquilo que o usuário preencheu (com PHP) e uma mensagem de agradecimento.
 
-2. O HTML e CSS devem ser de autoria dos integrantes do grupo, ou seja, não serão aceitos templates prontos. 
+<h3>INSTRUÇÕES GERAIS</h3>
 
-3. Os alunos deverão implementar as seguintes funcionalidades aprendidas em aula:
+<strong>1. O site deve ser desenvolvido utilizando HTML 5, CSS e PHP. </strong>
 
-    a. Respeitar a estrutura dos arquivos de um projeto vistos na aula 
+<strong>2. O HTML e CSS devem ser de autoria dos integrantes do grupo, ou seja, não serão aceitos templates prontos. </strong>
 
-    b. Decoração de texto com CSS 
+<strong>3. Os alunos deverão implementar as seguintes funcionalidades aprendidas em aula:</strong>
 
-    c. Uso de imagens 
+        a. Respeitar a estrutura dos arquivos de um projeto vistos na aula 
 
-    d. Uso de bordas 
+        b. Decoração de texto com CSS 
 
-    e. Uso de Espaçamento e Margem 
+        c. Uso de imagens 
 
-    f. Uso de Seletores CSS e flutuação de elementos 
+        d. Uso de bordas 
 
-    g. Uso de HTML semântico 
+        e. Uso de Espaçamento e Margem 
 
-    h. Estilização com classes 
+        f. Uso de Seletores CSS e flutuação de elementos 
 
-    i. Uso de CSS Reset 
+        g. Uso de HTML semântico 
 
-    j. Uso de Posicionamento no CSS 
+        h. Estilização com classes 
 
-    k. Uso de Substituição por Imagem 
+        i. Uso de CSS Reset 
 
-    l. Uso de Formulários 
+        j. Uso de Posicionamento no CSS 
 
-    m. Uso de Seletores Avançados do CSS 
+        k. Uso de Substituição por Imagem 
 
-4. Estas funcionalidades podem estar espalhadas pelo site. Assim, cada uma deve ser documentada em um arquivo .txt em separado (informando onde usou)
+        l. Uso de Formulários 
+
+        m. Uso de Seletores Avançados do CSS 
+
+<strong>4. Estas funcionalidades podem estar espalhadas pelo site. Assim, cada uma deve ser documentada em um arquivo .txt em separado (informando onde usou)</strong>
