@@ -1,0 +1,41 @@
+Gabriel Pivato e Sednei Rossetti Junior
+____________________________________________
+
+a. Respeitar a estrutura dos arquivos de um projeto vistos na aula 
+Cada tipo de arquivo possui sua pasta no nosso trabalho, usando links e includes para anexa-los.
+
+b. Decoração de texto com CSS 
+Foi usado em todo site.
+
+c. Uso de imagens 
+Foi usado por todo site.
+
+d. Uso de bordas 
+Foi usado em elementos para melhor visualização.
+    
+e. Uso de Espaçamento e Margem 
+Foi usado em todo site.
+
+f. Uso de Seletores CSS e flutuação de elementos 
+Foi usado em certos elementos que precisavam ter uma atenção maior.
+
+g. Uso de HTML semântico 
+Toda a estrutura do arquivo é semântica.
+
+h. Estilização com classes 
+Usado na maioria dos elementos.
+
+i. Uso de CSS Reset 
+Foi usado, e editado para nosso uso.
+
+j. Uso de Posicionamento no CSS 
+Foi usado na maioria dos elementos.
+
+k. Uso de Substituição por Imagem 
+Usado nos icones de download e redes sociais.
+
+l. Uso de Formulários 
+Foi usado na página de contato.
+
+m. Uso de Seletores Avançados do CSS 
+Foi usado no formulário.
