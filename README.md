@@ -11,19 +11,6 @@ Trabalho_17-05-2018
 <h2>"Fazer um site sobre as olimpíadas de 2020."</h2>
 
 <hr>
-
-<strong>● Esta é uma prova prática, individual ou em duplas e com consulta.</strong>
-
-<strong>● O valor total desta prova corresponde à 6,0 pontos da nota do primeiro trimestre.</strong>
-
-<strong>● O prazo de entrega da prova é 17/05/2018.</strong>
-
-    ○ As questões devem estar em um arquivo compactado (.zip).
-
-    ○ O arquivo compactado da prova deve ser submetido pelo Moodle (não serão aceitos trabalhos enviados por e-mail).
-
-    ○ Envios submetidos após esta data terão desconto de 30% na sua nota.
-
   
 <strong>● Os critérios observados e exigidos nas atividades práticas ou provas escrita são:</strong>
 
