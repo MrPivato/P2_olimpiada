@@ -83,10 +83,8 @@
 	 	</div>
 	 </section>
 
-
-
 	 <?php 
-		include 'footer.html';
+		include 'footer.html'; 
 	 ?>
 
 </body>
